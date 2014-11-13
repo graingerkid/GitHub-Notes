@@ -1,13 +1,7 @@
-Hello world!
-===========
+Github Notes
+============
 
-This is my venture into the world of GitHub ;)
+While I'm learning to use Git and GitHub, I thought it would be good to takes
+some notes and publish them here as a nice way to learn.
 
-Git & github are awesome
-===========
-Some more random text...
-
-Final changes
-=============
-
-A final run through to practice
+Happy for anyone to improve them.
