@@ -56,3 +56,9 @@ git checkout -b [name_of_your_new_branch]
 Push the branch on github:
 
 git push origin [name_of_your_new_branch]
+
+
+Change Branch
+=============
+
+git checkout <branch name>
