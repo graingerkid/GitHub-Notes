@@ -47,6 +47,11 @@ View all commit messages
 ========================
 git log
 
+To see the difference between two commits, you can copy each commit id and use
+git diff to show the differences, exmaple:
+
+git diff e00f8a19b563e74e0ff1b1f3f6e9552ec463c409 d157433310b6d34ef88a71e086c1ecf1720595e1
+
 
 Create a new Branch
 ===================
