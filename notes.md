@@ -1,3 +1,10 @@
+Repository
+============
+A repository is basically a directory, this is your collection of files which
+stores each commit you pushed to github. Every file in your repository is saved
+on each commit regardless of whether they were changed or not. So if you have two
+files and only one changed they are both still saved in a snapshot on a commit.
+
 Github Notes
 ============
 
@@ -52,6 +59,7 @@ git diff to show the differences, exmaple:
 
 git diff e00f8a19b563e74e0ff1b1f3f6e9552ec463c409 d157433310b6d34ef88a71e086c1ecf1720595e1
 
+Add the flag --stat to see which files in the commit were changed
 
 Create a new Branch
 ===================
