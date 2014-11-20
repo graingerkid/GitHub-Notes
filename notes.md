@@ -61,6 +61,8 @@ git diff e00f8a19b563e74e0ff1b1f3f6e9552ec463c409 d157433310b6d34ef88a71e086c1ec
 
 Add the flag --stat to see which files in the commit were changed
 
+use 'q' to quit out of the log
+
 Create a new Branch
 ===================
 
